@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "796575113681",
+    "project_id": "translate-app-srip",
+    "storage_bucket": "translate-app-srip.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796575113681:android:1a0776da0b22021760c0f0",
+        "android_client_info": {
+          "package_name": "com.example.languagetranslatorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1UnrwFB0H6itcg8qDxU_LAZZH712Sy28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
